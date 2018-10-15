@@ -1,4 +1,6 @@
 # TotoTheRobot
+![robot prototype](https://user-images.githubusercontent.com/41789916/46972631-3c12dc00-d0bf-11e8-85b6-8a37489c63ae.png)
+
 # AN ARDUINO UNO PROTOTYPE
 A prototype of an automatic moving robot operated by an Arduino
 # THE CONCEPT
